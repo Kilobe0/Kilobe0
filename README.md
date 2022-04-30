@@ -1,16 +1,29 @@
-### Hi there 👋
+### 
 
-<!--
-**Kilobe0/Kilobe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<div>
+ <img src="https://readme-typing-svg.herokuapp.com?color=%23DD6387&center=true&vCenter=true&lines=Hello!+I+am+Matheus+Achim!;Welcome+to+my+profile!" alt="Typing SVG">
+<br>
+</div>
 
-Here are some ideas to get you started:
+<p>
+Ciência da Computação
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+ <br>
+<div  align="center">
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ 
+</div>
+  
+ ##
+  
+<div>
+
+   ![Snake animation](https://github.com/GustRib/GustRib/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
