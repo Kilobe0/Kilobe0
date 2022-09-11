@@ -25,5 +25,7 @@ Ciência da Computação
  ##
 
 <div>
+ 
    ![Snake animation](https://github.com/GustRib/GustRib/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
