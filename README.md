@@ -6,8 +6,7 @@
 </div>
 
 <p>
-I'm currently working at Dom Helder Câmara
-Learning Flutter
+- 👨‍💻 Currently working at Dom Helder Câmara - 🚀 Learning Flutter
 </p>
 
 </div>
