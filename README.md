@@ -1,5 +1,9 @@
 ### 
 
+<header>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</header>
+
 <div align="center">
 <div>
  <img src="https://readme-typing-svg.herokuapp.com?color=%23DD6387&center=true&vCenter=true&lines=Hello!+I+am+Matheus+Achim!;Welcome+to+my+profile!" alt="Typing SVG">
