@@ -6,7 +6,8 @@
 </div>
 
 <p>
-Currently working at Dom Helder Câmara
+I'm currently working at Dom Helder Câmara
+Learning Flutter
 </p>
 
 </div>
