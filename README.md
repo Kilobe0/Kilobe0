@@ -6,7 +6,7 @@
 </div>
 
 <p>
-- 👨‍💻 Currently working at Dom Helder Câmara - 🚀 Learning Flutter
+- 👨‍💻 Looking for work! - 🚀 Learning Flutter
 </p>
 
 </div>
