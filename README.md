@@ -6,7 +6,7 @@
 </div>
 
 <p>
-- 👨‍💻 Looking for work! - 🚀 Learning Flutter
+- 👨‍💻 Looking for work!
 </p>
 
 </div>
