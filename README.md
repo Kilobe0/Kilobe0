@@ -6,7 +6,7 @@
 </div>
 
 <p>
-- 👨‍💻 Working at Reflow!
+- 👨‍💻 Looking for Work!
 </p>
 
 </div>
